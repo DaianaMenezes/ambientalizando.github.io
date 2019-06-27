@@ -7032,6 +7032,9 @@ a.text-dark:hover, a.text-dark:focus {
     border-width: 2px;
     width: 50%; }
 
+#link-docencia {
+  color: #415C59; }
+
 #frame {
   width: 640px;
   height: 360px; }
@@ -7058,6 +7061,9 @@ a.text-dark:hover, a.text-dark:focus {
 #frame2 {
   width: 249px; }
 
+#containerVid .container {
+  width: 330px; }
+
 @media (min-width: 576px) {
   #font-responsive {
     font-size: 3rem; }
@@ -7066,7 +7072,9 @@ a.text-dark:hover, a.text-dark:focus {
   #frame {
     width: 100%; }
   #frame2 {
-    width: 249px; } }
+    width: 249px; }
+  #containerVid .container {
+    width: 330px; } }
 
 @media (min-width: 768px) {
   #font-responsive {
@@ -7078,7 +7086,9 @@ a.text-dark:hover, a.text-dark:focus {
   #frame {
     width: 640px; }
   #frame2 {
-    width: 352px; } }
+    width: 352px; }
+  #containerVid .container {
+    width: 830.317px; } }
 
 @media (min-width: 992px) {
   #font-responsive {
@@ -7088,7 +7098,9 @@ a.text-dark:hover, a.text-dark:focus {
   #frame {
     width: 640px; }
   #frame2 {
-    width: 352px; } }
+    width: 352px; }
+  #containerVid .container {
+    width: 830.317px; } }
 
 #vidMainNav {
   background-color: rgba(79, 56, 36, 0.41); }
@@ -7181,3 +7193,6 @@ a.text-dark:hover, a.text-dark:focus {
 
 #marginText {
   margin-bottom: 100px; }
+
+#marginTextLast {
+  margin-bottom: 40px; }
